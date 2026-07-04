@@ -21,3 +21,7 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
+
+# Env files
+.env
+.env.*
