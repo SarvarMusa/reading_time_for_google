@@ -27,6 +27,3 @@ No environment variables are required for this project.
 
 ## API endpoints (if backend)
 Not applicable (Frontend Chrome Extension).
-
-## Screenshots
-*(Add screenshots of the extension in action here)*
